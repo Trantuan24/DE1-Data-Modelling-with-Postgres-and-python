@@ -32,8 +32,8 @@ To load data into the `retail_orders` database: Run `python3 scripts/etl.py`
 ```plaintext
 data_modeling_with_postgres_and_python/
 ├── data/                           # Raw and cleaned datasets
-│   ├── retail_orders.csv           # Raw dataset
-│   └── clean_retail_orders.csv     # Cleaned and prepared dataset
+│   ├── dataset.csv                 # Raw dataset
+│   └── clean_dataset.csv           # Cleaned and prepared dataset
 ├── notebooks/                      # Jupyter notebooks for analysis and reporting
 │   └── analysis.ipynb              # Notebook for data cleaning and exploration
 ├── logs/                           # Log files for monitoring scripts
@@ -42,8 +42,8 @@ data_modeling_with_postgres_and_python/
 │   └── etl.log                     # Log for ETL pipeline
 ├── scripts/                        # Python scripts for ETL and database management
 │   ├── create_tables.py            # Script to create database and tables
-│   ├── download_data.py            # Script to download data from Kaggle or APIs
-│   ├── sql_queries.py              # SQL queries for table creation and ETL
+│   ├── download_data.py            # Script to download data from Kaggle using API Key
+│   ├── sql_queries.py              # SQL queries for schema creation
 │   └── etl.py                      # ETL pipeline to load data into the database
 ├── sql/                            # SQL files for analysis
 │   └── analysis_queries.sql        # SQL queries for data analysis
