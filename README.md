@@ -13,3 +13,27 @@ The database is optimized for analyzing retail sales data and is designed using 
     * dim_location: Stores geographic details, including country, city, state, postal code, and region.
     * dim_product: Contains information on product categories, subcategories, and product IDs.
     * dim_date: Includes details about dates (e.g., year, month, day) to support temporal analysis.
+
+### ETL pipeline
+The ETL pipeline processes data from the retail orders dataset to populate the database.
+
+
+## Usage
+To create `retail_orders` database and its tables:
+1. Download Kaggle API Key
+2. Run `python scripts/download_data.py`
+3. Open Jupyter Notebook and run the file `notebooks/analysis.ipynb`
+4. Run `python scripts/create_tables.py`
+
+To load data into the `retail_orders` database: Run `python3 scripts/etl.py`
+
+
+
+
+
+
+
+
+
+
+
