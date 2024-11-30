@@ -29,6 +29,7 @@ To load data into the `retail_orders` database: Run `python3 scripts/etl.py`
 
 
 ## Project structure
+```plaintext
 data_modeling_with_postgres_and_python/
 ├── data/                           # Raw and cleaned datasets
 │   ├── retail_orders.csv           # Raw dataset
@@ -49,3 +50,5 @@ data_modeling_with_postgres_and_python/
 ├── requirements.txt                # Python dependencies for the project
 ├── .env                            # Environment variables for database configuration
 ├── README.md                       # Project documentation
+
+
