@@ -1,0 +1,4 @@
+2024-11-30 16:41:36,870 - INFO - Database 'retail_orders' created successfully.
+2024-11-30 16:41:36,879 - INFO - All tables dropped successfully.
+2024-11-30 16:41:36,895 - INFO - All tables created successfully.
+2024-11-30 16:41:36,895 - INFO - Database setup completed successfully.

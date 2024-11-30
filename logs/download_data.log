@@ -1,0 +1,4 @@
+2024-11-30 16:39:31,773 - INFO - Kaggle API authentication successful.
+2024-11-30 16:39:31,774 - INFO - Downloading data from 'ankitbansal06/retail-orders'...
+2024-11-30 16:39:33,592 - INFO - Data downloaded successfully.
+2024-11-30 16:39:33,593 - INFO - CSV file saved to 'data/dataset.csv'!

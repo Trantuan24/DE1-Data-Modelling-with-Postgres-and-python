@@ -1,0 +1,11 @@
+2024-11-30 16:41:56,918 - INFO - Successfully connected to the database.
+2024-11-30 16:41:56,935 - INFO - Loaded data from data/clean_dataset.csv.
+2024-11-30 16:41:56,947 - INFO - Data transformation complete.
+2024-11-30 16:41:56,953 - INFO - Inserted 5 records successfully.
+2024-11-30 16:41:56,956 - INFO - Inserted 3 records successfully.
+2024-11-30 16:41:57,098 - INFO - Inserted 632 records successfully.
+2024-11-30 16:41:57,191 - INFO - Inserted 1862 records successfully.
+2024-11-30 16:41:57,257 - INFO - Inserted 730 records successfully.
+2024-11-30 16:41:57,347 - INFO - Remaining records after mapping: 9994.
+2024-11-30 16:41:58,893 - INFO - Inserted 9994 records successfully.
+2024-11-30 16:41:58,894 - INFO - ETL process completed successfully.
