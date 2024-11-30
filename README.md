@@ -25,7 +25,7 @@ To create `retail_orders` database and its tables:
 3. Open Jupyter Notebook and run the file `notebooks/analysis.ipynb`
 4. Run `python scripts/create_tables.py`
 
-To load data into the `retail_orders` database: Run `python3 scripts/etl.py`
+To load data into the `retail_orders` database: Run `python scripts/etl.py`
 
 
 ## Project structure
@@ -50,5 +50,3 @@ data_modeling_with_postgres_and_python/
 ├── requirements.txt                # Python dependencies for the project
 ├── .env                            # Environment variables for database configuration
 ├── README.md                       # Project documentation
-
-
